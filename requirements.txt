@@ -1,0 +1,7 @@
+nltk==3.4.5
+keras==2.2.4
+tensorflow==1.14.0
+pyvi==0.0.9.7
+gensim==3.8.0
+unidecode
+tqdm
